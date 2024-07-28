@@ -5,7 +5,15 @@
 </p>
 
 <h2>Features</h2>
-<ul><li>Injects a custom comment section into websites with disabled comments</li
-<li>Users can add, view, and manage comments directly on the page</li>
-<li>Designed to mimic the look and feel of native comment sections</li>
-<li>Simple and intuitive interface</li></ul>
+<ul><li>
+Inject Custom Comment Section: Automatically adds a custom comment section to websites with disabled comments.</li>
+<li>User-Friendly Interface: Mimics the look and feel of native comment sections, providing a seamless user experience.</li>
+<li>Real-Time Commenting: Users can add, view, and manage comments directly on the page.</li>
+<li>No Borders for Input: Customizable input field without borders for a clean look.</li>
+<li>Color Scheme: Customizable color scheme for better integration with the website's design.</li>
+
+
+
+
+  
+</ul>
