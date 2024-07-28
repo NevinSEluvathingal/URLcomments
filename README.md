@@ -1,4 +1,3 @@
-<html >
 <head>
     <style>
         h1, h2, h3, h4 {
@@ -7,7 +6,6 @@
     </style>
     <title>URL Comments</title>
 </head>
-<body>
     <h1>URL Comments</h1>
 
     <h2>Overview</h2>
@@ -117,5 +115,4 @@ injectCommentSection();
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</body>
-</html>
+
