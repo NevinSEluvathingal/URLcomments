@@ -1,4 +1,4 @@
-# URL Comments
+# URLcomments
 
 ## Overview
 URL Comments is a tool designed to enable users to comment on any website, even those where the comment section is disabled. This initiative aims to promote democratic discussion and enhance community interaction across the web.
@@ -15,13 +15,13 @@ URL Comments is a tool designed to enable users to comment on any website, even 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/url-comments.git
+    git clone https://github.com/yourusername/URLcomments.git
     ```
 
 2. **Navigate to the Directory**
 
     ```bash
-    cd url-comments
+    cd URLcomments
     ```
 
 3. **Load the Extension in Chrome**
@@ -32,18 +32,11 @@ URL Comments is a tool designed to enable users to comment on any website, even 
 
 ## Usage
 
-Once the extension is loaded, it will automatically detect pages where the comment section is disabled and inject a custom comment section. Users can then add their comments, which will be displayed in the new section.
+Once the extension is loaded,  UUers can then add their comments, which will be displayed in the new section.
 
 ### Injected Comment Section
 
 - **Add Comments**: Users can write comments in a borderless input field.
 - **Post Comments**: Click the "Post Comment" button to add the comment to the page.
 - **View Comments**: All posted comments will be displayed in the comments container.
-- **Clear Input**: The input field is cleared after posting a comment.
 
-## Code
-
-```javascript
-function injectCommentSection() {
-  const observer = new MutationObserver((mutations) => {
- 
