@@ -1,4 +1,5 @@
-<style>h1 { border-bottom: 0; } </style>
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+
 
 <h1>URLcomments</h1>
 
